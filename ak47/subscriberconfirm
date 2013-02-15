@@ -1,0 +1,114 @@
+<html>
+<head>
+
+<title>AK47.tv - Subscriber List Confirmation</title>
+
+
+<style type="text/css">
+
+
+body {
+  margin:0px;
+  padding:0px;
+  padding-bottom:25px;
+  background: #79ACB4 url(/graphics/back.gif) bottom left fixed repeat-x;
+  font: 11px Verdana, Arial, Helvetica, sans-serif;
+  text-align:center;
+  line-height:1.6em;
+  border-top: 10px solid #101427;
+}
+
+img {
+  padding:0px;
+  margin:0px;
+  border:0px;
+}
+
+
+a {
+  text-decoration:none;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+h1 {
+  font-size:medium;
+}
+
+#container {
+  position:relative;
+  width:752px;
+  height:762px;
+  margin:0px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  text-align:center;
+}
+
+#top {
+  position:absolute;
+  top:0px;
+  left:0px;
+  background-color: #F7EDEE;
+  width:752px;
+  height:325px;
+  text-align:left;
+  color: #101427;
+  border: 1px solid #466369;
+}
+
+#logo {
+  display:block;
+  float:left;
+  width:320px;
+  height:325px;
+  background-color: #7C0609;
+}
+
+#message {
+  float:right;
+  display:block;
+  width:412px;
+  height:305px;
+  padding:10px;
+  overflow:auto;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="container">
+<div id="top">
+
+<div id="message">
+  <h1>Thank You!</h1>
+  You have successfully joined the subscriber list for AK47.tv. If at any stage you want to unsubscribe,<br/>please send an email to <i>unsubscribe at ak47 dot tv</i>.
+
+<br/>
+
+<?php
+if (isset($_COOKIE['phpIssue']))
+echo "Welcome " . $_COOKIE['phpIssue'] . "!<br />";
+else
+echo "You are on the default issue!<br />";
+?>
+
+  <p><a href="/" title="AK47.tv">Back</a></p>
+</div> <!-- message -->
+
+<div id="logo" >
+  <a href="/" title="AK47.tv"><img src="/graphics/ak47.gif" alt="Ak47 Logo" title="Ak47 - an online photographic magazine" /></a>
+</div> <!-- logo"
+
+</div> <!-- top -->
+</div> <!-- container -->
+
+</body>
+
+</html>

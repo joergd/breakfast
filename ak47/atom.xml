@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>AK47.tv</title>
+  <link rel="alternate" type="text/html" href="http://brea.kfa.st/ak47/" />
+  <tagline>AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers.</tagline>
+  <id>tag:brea.kfa.st,2007:/ak47//1</id>
+  <generator url="http://www.movabletype.org/" version="3.2">Movable Type</generator>
+  <copyright>Copyright (c) 2007, AK47.tv and its contributors</copyright>
+  <modified>2005-12-11T13:30:00+02:00</modified>
+  <entry>
+    <title>AK47.tv - January/February 2006, Ninth Issue</title>
+    <link rel="alternate" type="text/html" href="http://brea.kfa.st/ak47/" />
+    <modified>2005-12-11T13:30:00+02:00</modified>
+    <issued>2005-12-11T13:30:00+02:00</issued>
+    <created>2005-12-11T13:30:00+02:00</created>
+    <summary type="text/plain">The Ninth Issue is now out.</summary>
+    <author>
+      <name>AK47.tv</name>
+      <url>http://www.ak47.tv</url>
+    </author>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://brea.kfa.st/ak47/">The Ninth Issue is finally out. Please view it online at AK47.tv
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,79 @@
+<$MTInclude module="setIssue"$>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title><$MTInclude module="issueName"$></title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/<$MTBlogName$>/main.css" /> 
+<style type="text/css" media="screen">@import "/ak47/<$MTBlogName$>/main.css"</style>
+
+
+<$MTInclude module="metaData"$>
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="top">
+
+<div id="banner">
+  <$MTInclude module="banner"$>
+</div>
+
+<img src="/ak47/<$MTBlogName$>/graphics/ak47.gif" alt="Ak47 Logo" title="<$MTInclude module="issueName"$>" />
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+  <p><b>An online art photography magazine.</b> AK47 is published bimonthly. We showcase images from both fine arts and documentary photographers. </p>
+<p>AK47.tv is <b>free</b> and online. Saving paper.</p>
+
+ <div id="subscribe"><$MTInclude module="notify"$></div>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+<p><b>In this issue:</b></p>
+<ul id="toc">
+  <MTCategories>
+    <li>
+      <a href="./<$MTCategoryLabel dirify="1"$>" title="<$MTCategoryLabel$>"><$MTCategoryLabel$></a>&#160;...&#160;<b><$MTCategoryDescription$></b><br/>
+
+      <MTSQLEntries query="select entry_id from mt_entry, mt_placement where placement_blog_id=[MTBlogID] and placement_category_id=[MTCategoryID] and entry_status=2 and entry_id=placement_entry_id and entry_title='Details' limit 1">
+
+        <$MTEntryBody convert_breaks="0" words="15"$>... (<a href="<$MTEntryLink$>" title="Read more">more</a>)
+      </MTSQLEntries>
+    </li>
+  </MTCategories>
+
+</ul>
+
+</div> <!-- rightcontent -->
+
+<div id="freewallpaper"></div>
+
+
+<div id="coverPhotoCredit">
+  <$MTInclude module="coverPhotoCredit"$>
+</div>
+
+<div id="menu">
+  <$MTInclude module="menu"$>
+</div>
+
+<div id="copyright">
+  <$MTInclude module="copyright"$>
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

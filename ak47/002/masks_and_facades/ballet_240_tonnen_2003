@@ -1,0 +1,89 @@
+<?php
+setcookie('phpIssue', '002', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - May 2004, Second Issue - Olaf Martens : Masks and Facades Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/002/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/002/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - May 2004, Second Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/002/" title="Home"><img src="/ak47/002/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - May 2004, Second Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Masks and Facades (<a class="normal" href="http://brea.kfa.st/ak47/002/masks_and_facades" title="View Masks and Facades">View</a>)</h2>
+  
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/002/masks_and_facades" title="View Masks and Facades">View Masks and Facades</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Olaf Martens</h2>
+ 
+
+  
+
+  <p>
+     <h2>Contact</h2>
+     002_om_Bankett_5maedls_steh.jpg
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/002/" title="AK47.tv - May 2004, Second Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

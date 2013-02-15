@@ -1,0 +1,97 @@
+<?php
+setcookie('phpIssue', '003', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - June/July 2004, Third Issue - Beth Yarnelle Edwards : Suburban Dreams Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/003/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/003/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - June/July 2004, Third Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/003/" title="Home"><img src="/ak47/003/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - June/July 2004, Third Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Suburban Dreams (<a class="normal" href="http://brea.kfa.st/ak47/003/suburban_dreams" title="View Suburban Dreams">View</a>)</h2>
+  <p><a href="/ak47/003/suburban_dreams" title="View Suburban Dreams"><img src="/ak47/003/graphics/003_be.jpg" alt="Suburban Dreams" title="Suburban Dreams" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>I am fascinated by the signs and symbols of contemporary life, by the relationships among people, the spaces they inhabit and their possessions.  These photographs are visual explorations of people, places and things in middle-class California suburbs during the last decade of the twentieth century and the beginning of the next.   </p>
+
+<p>I�m trying to locate the place where the mythic intersects with the mundane, where dream merges with reality.  Doing this, I�m inspired and influenced by many different things, including genre painting, contemporary cinema, performance and installation.  The result, I hope, is a persuasive fiction which combines real appearances with philosophical truth.<br />
+</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/003/suburban_dreams" title="View Suburban Dreams">View Suburban Dreams</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Beth Yarnelle Edwards</h2>
+ 
+
+  <p>Beth Yarnelle Edwards collaborates with real people to stage and photograph performances of their daily lives.  Her work has been published in <i>Photo Nouvelles</i>, <i>European Photography</i>, <i>fotoMAGAZIN</i>, <i>The New Yorker</i>, <i>The New York Times Magazine</i>, <i>Harper's</i> and <i>Adbusters</i>.  Her images are also featured in a recent British book on ten photographers who work in portraiture,  <i>Masquerade:  Contemporary Women�s Portrait Photography</i>.  She has received the Wallace Alexander Gerbode Foundation Award, the Ruttenberg Arts Foundation Award, first place in the Santa Fe Center for Photographic Arts Project Competition and the grand prix of the Salon International de la Recherche Photographique de Royan, France.  Recent exhibitions include solo shows at Ch�teau d�Eau in Toulouse, France, and the Mus�e de la Photographie, in Charleroi, Belgium.   Edwards� work resides in numerous museum collections in the United States and Europe, including the Los Angeles County Museum of Art, the San Francisco Museum of Modern Art, and the Museums of Fine Arts in Houston.  She is represented by Robert Klein Gallery in Boston.  At present she is continuing her American series at the same time that she begins a new project in France.</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="mailto:Byedwards at aol dot com" title="Send email">Email</a><br/>
+<a href="http://www.bethyarnelleedwards.com" title="Visit website">Website</a><br/><br/>
+<a href="http://www.robertkleingallery.com/gallery/byedwards" title="Visit website">Gallery Website</a><br/>
+<a href="http://web.staffs.ac.uk/cgi-bin/ariadne/show?artist=edwards_b" title="Visit website">Ariadne Website</a><br/>
+<a href="http://www.staffs.ac.uk/ariadne/masquinfo.html" title="Visit website">Link to Book</a><br/>
+
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/003/" title="AK47.tv - June/July 2004, Third Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

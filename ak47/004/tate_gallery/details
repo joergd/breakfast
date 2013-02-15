@@ -1,0 +1,97 @@
+<?php
+setcookie('phpIssue', '004', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv -August/September 2004, Fourth Issue - Nick Turpin : Tate Gallery Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/004/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/004/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv -August/September 2004, Fourth Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/004/" title="Home"><img src="/ak47/004/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv -August/September 2004, Fourth Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Tate Gallery (<a class="normal" href="http://brea.kfa.st/ak47/004/tate_gallery" title="View Tate Gallery">View</a>)</h2>
+  <p><a href="/ak47/004/tate_gallery" title="View Tate Gallery"><img src="/ak47/004/graphics/004_nt.jpg" alt="Tate Gallery" title="Tate Gallery" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>I first shot in the Tate Gallery after leaving the Independent Newspaper in 1997, I used it as a closed environment in which to find my own way of seeing again after having worked for somebody else for so long. The initial set of pictures were bought and shown by the Tate Gallery for three years. I have returned to the Tate Gallery on and off ever since mainly because it allows me to enjoy both Art and Photography at the same time. In many ways this project initiated the love of observation and spontaneity that I now practice outside of its walls on the streets of London. The Tate Gallery is a public place and as such allows me to consider this work to be as much Street <br />
+Photography as the pictures I make in the rest of the city.</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/004/tate_gallery" title="View Tate Gallery">View Tate Gallery</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Nick Turpin</h2>
+ 
+
+  <p>I am primarily a �Street Photographer�, I make pictures in public places with as little interaction with my subject as possible. My aim is to observe and allow the world to reveal itself to me. The pictures are made very quickly with a small discreet camera. The resulting images are moments of everyday contemporary urban life that provide a mirror in which we may see the results of the decisions we have made as a society.</p>
+
+<p>My Street Photography is financed by shooting projects for Advertising agencies and Design groups. I am generally asked to make Ads that look like the real life images that I make on the streets. The Art Directors I work with are attracted by the humour and spontaneity of my street pictures. The process of shooting an Ad Is far from spontaneous, it usually involves days of meetings and production followed by a shoot with models, lighting, make up, styling, props, location managers, assistants and catering. My shoot this year for Robinsons Barley Water required a crew of 22 people.</p>
+
+<p>Like many artists, the struggle is to maintain the balance between the personal and commercial aspects of my work.</p>
+
+<p>I also set up iN-PUBLiC in 2000 to provide a home for street photographers. </p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="http://www.nickturpin.com" title="Visit website">Website</a><br/>
+<a href="http://www.in-public.com" title="Visit website">In-Public Website</a>
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/004/" title="AK47.tv -August/September 2004, Fourth Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

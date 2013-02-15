@@ -1,0 +1,125 @@
+body {
+  margin:0px;
+  padding:0px;
+  padding-bottom:25px;
+  background: #79ACB4 url(/ak47/001/graphics/back.gif) bottom left fixed repeat-x;
+  font: 11px Verdana, Arial, Helvetica, sans-serif;
+  text-align:center;
+  line-height:1.6em;
+  border-top: 10px solid #101427;
+  scrollbar-base-color: #F7EDEE;
+}
+
+img {
+  padding:0px;
+  margin:0px;
+  border:0px;
+}
+
+a {
+  color:#7C0609;
+  text-decoration:underline;
+}
+
+a:hover {
+  color: #F7EDEE;
+  background: #7C0609;
+}
+
+h1 {
+  font-size:14px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+#container {
+  position:relative;
+  width:752px;
+  height:762px;
+  margin:0px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  text-align:center;
+}
+
+#top {
+  position:absolute;
+  top:0px;
+  left:0px;
+  background: #7C0609 url(/ak47/001/graphics/001_thin.jpg) top right no-repeat;
+  width:752px;
+  height:100px;
+  text-align:left;
+  color: #F7EDEE;
+  border: 1px solid #466369;
+}
+
+
+#leftContent {
+  position:absolute;
+  top:110px;
+  left:0px;
+  width: 301px;
+  height: 605px;
+  padding:10px;
+  padding-top:0px;
+  background-color: #F7EDEE;
+  border: 1px solid #466369;
+  border-bottom: 20px solid #466369;
+  text-align:left;
+  overflow:auto;
+}
+
+#rightContent {
+  position:absolute;
+  top:110px;
+  left:323px;
+  width: 410px;
+  height: 605px;
+  padding:10px;
+  padding-top:0px;
+  background-color: #F7EDEE;
+  border: 1px solid #466369;
+  border-bottom: 20px solid #466369;
+  text-align:left;
+  overflow:auto;
+}
+
+
+#copyright {
+  position:absolute;
+  bottom:0px;
+  right: 0px;
+  color: #7C0609;
+  text-align:right;
+}
+
+
+#menu {
+  position:absolute;
+  top:727px;
+  left: 6px;
+  color: white;
+  font-weight:700;
+}
+
+
+#menu a {
+  color: white;
+  text-decoration:underline;
+}
+
+#menu a:hover {
+  color: #466369;
+  background: white;
+}
+
+
+.normal {
+  font-weight: normal;
+}

@@ -1,0 +1,203 @@
+body {
+  margin:0px;
+  padding:0px;
+  padding-bottom:25px;
+  color: white;
+  background: #374128 url(/ak47/006/graphics/back.gif) bottom left fixed repeat-x;
+  font: 11px Verdana, Arial, Helvetica, sans-serif;
+  text-align:center;
+  line-height:1.6em;
+  border-top: 10px solid #101427;
+  scrollbar-base-color: #FFFFFF;
+}
+
+img {
+  padding:0px;
+  margin:0px;
+  border:0px;
+}
+
+a {
+  color:#FF75AF;
+  text-decoration:underline;
+}
+
+a:hover {
+  color: #FFFFFF;
+  background: #FF75AF;
+}
+
+h1 {
+  font-size:14px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+input {
+  background-color: #FDF8E3;
+}
+
+#container {
+  position:relative;
+  width:752px;
+  height:762px;
+  margin:0px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  text-align:center;
+  color: black;
+}
+
+#top {
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:752px;
+  height:325px;
+  text-align:left;
+  background-color: #FF75AF;
+  color: #FFFFFF;
+  border: 1px solid #13170E;
+}
+
+
+#leftContent {
+  position:absolute;
+  top:335px;
+  left:0px;
+  width: 301px;
+  height: 380px;
+  padding:10px;
+  padding-top:0px;
+  text-align:left;
+  overflow:auto;
+  background-color: #FFFFFF;
+  border: 1px solid #13170E;
+  border-bottom: 20px solid #13170E;
+}
+
+#rightContent {
+  position:absolute;
+  top:335px;
+  left:323px;
+  width: 410px;
+  height: 380px;
+  padding:10px;
+  padding-top:0px;
+  text-align:left;
+  overflow:auto;
+  background-color: #FFFFFF;
+  border: 1px solid #13170E;
+  border-bottom: 20px solid #13170E;
+}
+
+
+#banner {
+  display:block;
+  float:right;
+}
+
+#transparentBanner {
+  position:absolute;
+  display:block;
+  top:0px;
+  right:0px;
+}
+
+
+#copyright {
+  position:absolute;
+  bottom:0px;
+  right: 0px;
+  text-align:right;
+  color: #FF75AF;
+}
+
+
+#menu {
+  position:absolute;
+  top:727px;
+  left: 6px;
+  font-weight:700;
+  color: white;
+}
+
+#menu a {
+  color: white;
+  text-decoration:underline;
+}
+
+#menu a:hover {
+  color: #13170E;
+  background: white;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+ul#toc {
+}
+
+ul#toc li {
+}
+
+ul#toc a {
+  font-weight:bold;
+}
+
+#coverPhotoCredit {
+  position:absolute;
+  top:-15px;
+  right: 2px;
+  text-align:right;
+  font-size: 9px;
+}
+
+#coverPhotoCredit a {
+  color: #FF75AF;
+}
+
+#coverPhotoCredit a:hover {
+  color: #FFFFFF;
+  background: #FF75AF;
+}
+
+#subscribe {
+  background: #FDF8DF;
+  padding: 10px;
+  margin: 5px 15px 10px 15px;
+  text-align:center;
+}
+
+#subscribe h2 {
+  display:block;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: normal;
+  border-bottom: 1px solid #C3A038;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+
+#subscribe p {
+  color: #8A7A4B;
+}
+
+
+#freewallpaper {
+   position:absolute;
+   top:440px;
+   left:10px;
+   width:100px;
+   height:100px;
+   /* background-image:url(/graphics/freewallpaper.gif); */
+   /* background-position:center left; */
+   /* background-repeat:no-repeat; */
+}

@@ -1,0 +1,76 @@
+<?php
+setcookie('phpIssue', '006', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - December/January 2004/5, Sixth Issue - Christian Patterson : Kicks</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/006/showcase.css" /> 
+<style type="text/css" media="screen">@import "/ak47/006/showcase.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - December/January 2004/5, Sixth Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="slideshow">
+  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="752" height="700" id="imgSlideshow" >
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="/ak47/flash/imgSlideshow.swf" />
+<param name="loop" value="false" />
+<param name="menu" value="false" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#FFFFFF" />
+<param name="FlashVars" value="imgPath=/ak47/006/images/&amp;imgxml=http://brea.kfa.st/ak47/flash/getimages.php?categoryID=32">
+<embed src="/ak47/flash/imgSlideshow.swf" loop="false" menu="false" quality="high" bgcolor="#FFFFFF" width="752" height="700" name="imgSlideshow" allowScriptAccess="sameDomain" 
+FlashVars="imgPath=/ak47/006/images/&amp;imgxml=http://brea.kfa.st/ak47/flash/getimages.php?categoryID=32"
+type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</div>
+
+<div id="details">
+  <a href="http://brea.kfa.st/ak47/006/" title="AK47.tv - December/January 2004/5, Sixth Issue">Home</a>&#160;|&#160;<h1><a href="./details" title="Details">Kicks, Christian Patterson</a></h1>
+</div>
+
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/006/" title="AK47.tv - December/January 2004/5, Sixth Issue">AK47.tv</a>&#160;|&#160;<a href="./details" title="Kicks, Christian Patterson">View Details</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2005 Christian Patterson
+</div>
+
+</div> <!-- container -->
+
+</body>
+</html>

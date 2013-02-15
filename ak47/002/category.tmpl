@@ -1,0 +1,42 @@
+<$MTInclude module="setIssue"$>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title><$MTInclude module="issueName"$> - <$MTCategoryDescription$> : <$MTArchiveCategory$></title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/<$MTBlogName$>/showcase.css" /> 
+<style type="text/css" media="screen">@import "/ak47/<$MTBlogName$>/showcase.css"</style>
+
+<$MTInclude module="metaData"$>
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="slideshow">
+  <$MTInclude module="slideshow"$>
+</div>
+
+<div id="details">
+  <a href="<$MTBlogURL$>" title="<$MTInclude module="issueName"$>">AK47.tv</a>&#160;|&#160;<h1><a href="./details" title="Details"><$MTArchiveCategory$>, <$MTCategoryDescription$></a></h1>
+</div>
+
+
+<div id="menu">
+  <$MTInclude module="showcaseMenu"$>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2005 <$MTCategoryDescription$>
+</div>
+
+</div> <!-- container -->
+
+</body>
+</html>

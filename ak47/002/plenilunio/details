@@ -1,0 +1,94 @@
+<?php
+setcookie('phpIssue', '002', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - May 2004, Second Issue - Hisashi Murayama : Plenilunio Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/002/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/002/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - May 2004, Second Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/002/" title="Home"><img src="/ak47/002/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - May 2004, Second Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Plenilunio (<a class="normal" href="http://brea.kfa.st/ak47/002/plenilunio" title="View Plenilunio">View</a>)</h2>
+  <p><a href="/ak47/002/plenilunio" title="View Plenilunio"><img src="/ak47/002/graphics/002_hm.jpg" alt="Plenilunio" title="Plenilunio" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>My process of photography and obsession for pictures are in two different senses with ideas which create my point of view as one individual. Being inside of one and having opportunity of what I am able to do, gives me passion to continue taking pictures and produce my art. I have not found an answer for activities or values,  however reasons and desires lead my pictures between me and outer-existences in my experiences.<br />
+</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/002/plenilunio" title="View Plenilunio">View Plenilunio</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Hisashi Murayama</h2>
+ 
+
+  <p>Hisashi Murayama was born in Japan on 12th December, 1973. After completing a bachelor degree at  Kansai University of Foreign Studies - Language Spanish major - he moved to NY. He studied at the International Center of Photography between 1998 and 1999. Since year 2000, he has travelled between New York and most of Western Europe. Hisashi lived in Madrid during 2002, where he participated in a group exhibition at PHOTO ESPANA, and an exhibition in Japan. Through the years, he has participated regularly in Recontres Internationales de la Photographie, Arles � either individually or as a member of the independent international photographers group Tangophoto. Other exhibitions include Visapourlimage in Perpignan, France, and Fotofiesta Medellin in Colombia.</p>
+
+<p>Currently Hisashi is in NY and preparing for a group show at  Fnac Photogallery and Festival of Light, Buenos Aires, Argentina for 2004.<br />
+</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="http://www.tangophoto.net" title="Hisashi Murayama's Portfolio">Website</a><br/>
+<a href="http://www.daslabor-hamburg.de" title="Hisashi Murayama's Portfolio">Website 2</a>
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/002/" title="AK47.tv - May 2004, Second Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

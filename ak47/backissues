@@ -1,0 +1,123 @@
+<?php
+if (isset($_COOKIE["phpIssue"]))
+   $issue = $_COOKIE["phpIssue"];
+else
+   $issue = "";
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - Back Issues</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/<?php
+  if (strlen($issue) != 3)
+     echo "009";
+  else
+     echo $issue;
+?>/showcase.css" /> 
+<style type="text/css" media="screen">@import "/ak47/<?php
+  if (strlen($issue) != 3)
+     echo "009";
+  else
+     echo $issue;
+?>/showcase.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - January/February 2006, Ninth Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="slideshow">
+
+  <div style="margin-top:50px; margin-left:150px; width:500px;">
+    <table border="0"><tr><td valign="top">
+     <p>
+        <a href="/ak47/001" title="AK47.tv - April 2004, First Issue">April 2004, First Issue<br/>
+        <img src="/ak47/001/graphics/001_banner.jpg" alt="April 2004, First Issue" title="April 2004, First Issue" /></a><br/>
+     </p>
+     <p>
+        <a href="/ak47/002" title="AK47.tv - May 2004, Second Issue">May 2004, Second Issue<br/>
+        <img src="/ak47/002/graphics/002_banner.jpg" alt="May 2004, Second Issue" title="May 2004, Second Issue" /></a><br/>
+     </p>
+     <p>
+        <a href="/ak47/003" title="AK47.tv - June/July 2004, Third Issue">June/July 2004, Third Issue<br/>
+        <img src="/ak47/003/graphics/003_banner.gif" alt="June/July 2004, Third Issue" title="June/July 2004, Third Issue" /></a><br/>
+     </p>
+     <p>
+        <a href="/ak47/004" title="AK47.tv - August/September 2004, Fourth Issue">August/September 2004, Fourth Issue<br/>
+        <img src="/ak47/004/graphics/004_banner.gif" alt="August/September 2004, Fourth Issue" title="August/September 2004, Fourth Issue" /></a><br/>
+     </p>
+
+     <p>
+        <a href="/ak47/005" title="AK47.tv - October/November 2004, Fifth Issue">October/November 2004, Fifth Issue<br/>
+        <img src="/ak47/005/graphics/005_banner.gif" alt="October/November 2004, Fifth Issue" title="October/November 2004, Fifth Issue" /></a><br/>
+     </p>
+
+     <p>
+        <a href="/ak47/006" title="AK47.tv - December/January 2004/2005, Sixth Issue">December/January 2004/2005, Sixth Issue<br/>
+        <img src="/ak47/006/graphics/006_banner.gif" alt="December/January 2004/2005, Sixth Issue" title="December/January 2004/2005, Sixth Issue" /></a><br/>
+     </p></td>
+
+<td valign="top">
+     <p>
+        <a href="/ak47/007" title="AK47.tv - February/March 2005, Seventh Issue">February/March 2005, Seventh Issue<br/>
+        <img src="/ak47/007/graphics/007_banner.gif" alt="February/March 2005, Seventh Issue" title="February/March 2005, Seventh Issue" /></a><br/>
+     </p>
+     <p>
+        <a href="/ak47/008" title="AK47.tv - May/June 2005, Eighth Issue">May/June 2005, Eighth Issue<br/>
+        <img src="/ak47/008/graphics/008_banner.gif" alt="May/June 2005, Eighth Issue" title="May/June 2005, Eighth Issue" /></a><br/>
+     </p>
+     <p>
+        <a href="/ak47/009" title="AK47.tv - January/February 2006, Ninth Issue">January/February 2006, Ninth Issue<br/>
+        <img src="/ak47/009/graphics/009_banner.gif" alt="January/February 2006, Ninth Issue" title="January/February 2006, Ninth Issue" /></a><br/>
+     </p>
+</td>
+</tr></table>
+  </div>
+
+</div>
+
+<div id="details">
+  <h1><a href="/ak47" title="AK47.tv - An online art photography magazine">Home</a></h1>
+</div>
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/" title="AK47.tv - January/February 2006, Ninth Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<?php
+setcookie('phpIssue', '002', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - May 2004, Second Issue - Sally Gall : Water`s Edge Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/002/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/002/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - May 2004, Second Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/002/" title="Home"><img src="/ak47/002/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - May 2004, Second Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Water`s Edge (<a class="normal" href="http://brea.kfa.st/ak47/002/waters_edge" title="View Water`s Edge">View</a>)</h2>
+  <p><a href="/ak47/002/waters_edge" title="View Water's Edge"><img src="/ak47/002/graphics/002_sg.jpg" alt="Water's Edge" title="Water's Edge" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>These ethereal photographs by Sally Gall are at once ominous and serene, disturbing and reassuring. Her superb compositions capture and enhance the ever changing play of light, water, and land. Gall travels to places wild and far from human habitation to create her photographs that conjure up mystery, longing, and trepidation in her viewers.</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/002/waters_edge" title="View Water`s Edge">View Water`s Edge</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Sally Gall</h2>
+ 
+
+  <p>Gall exhibits regularly, and also makes photographs on assignment for magazines and for advertising. A book of her landscape photographs, "The Water's Edge," was published in 1995 by Chronicle Books. Her new book "Subterranea", Umbrage Editions, 2003 is out now. Her work is included in many private and public art collections, including The Cleveland Museum of Art, The Solomon R. Guggenheim, New Orleans Museum of Art, The Museum of Fine Arts Houston, The Brooklyn Museum, Biblioth�que Nationale in Paris,  and the San Francisco Museum of Modern Art. She was the recipient of a Rockefeller Foundation Fellowship in 1999. She was born in Washington DC 1956, and currently resides in New York City.<br />
+</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="http://www.sallygall.com" title="Visit Website">Website</a>
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/002/" title="AK47.tv - May 2004, Second Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

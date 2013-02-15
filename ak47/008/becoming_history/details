@@ -1,0 +1,95 @@
+<?php
+setcookie('phpIssue', '008', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - May/June 2005, Eighth Issue - Tony Meintjes : Becoming History Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/008/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/008/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - May/June 2005, Eighth Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/008/" title="Home"><img src="/ak47/008/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - May/June 2005, Eighth Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Becoming History (<a class="normal" href="http://brea.kfa.st/ak47/008/becoming_history" title="View Becoming History">View</a>)</h2>
+  <p><a href="/ak47/008/becoming_history" title="View Becoming History"><img src="/ak47/008/graphics/008_tm.jpg" alt="Becoming History" title="Becoming History" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>I have recently found myself viewing the environment as a chronicle of events, with me periodically jabbing at the timeline with a camera, trying to rouse something memorable, unusual, or even insightful. A flowery analogy would be this timeline as a bow-wave of history with me throwing buoys overboard at selective intervals.</p>
+
+<p>The materials that interest me are the twin topographies (our geographic history, layered with the complex cultural and industrial interactions that are imprinted  on it), and the chosen moment. Not only is it fascinating to me where these three  elements intersect, but their relationship is dynamic: an endless source of continuously shifting opportunities. Always good for a photographer.</p>
+
+<p>Despite the utmost sincerity of intent and/or clarity of vision, at some time, without fail the juncture of these associations will surprise us in the most unexpected ways; it is in the nature of the unforeseen that something mysterious may reveal itself. This is always worth waiting for.</p>
+
+<p>I like to think that these regional markers will not only be a guide for us to navigate back in time one day, but that these moments may reflect more than a record and encourage us a glimpse into our own worlds.</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/008/becoming_history" title="View Becoming History">View Becoming History</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Tony Meintjes</h2>
+ 
+
+  <p>Tony was born in South Africa in 1956.  After he studied photography in Durban he further practiced as an advertising photographer in Cape Town until 2000. He then started a printing company called Southern Editions, making prints for photographers and fine artists. Some of the artists he prints for include David Goldblatt, Jane Alexander, Gail Catlin, Guy Tillim and Bernie Searle. He lives in Cape Town with his wife Janet and his daughters Alexandra and Billie-Mae.</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="mailto:pixelpic at mweb dot co dot za" title="Email">Email</a>
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/008/" title="AK47.tv - May/June 2005, Eighth Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

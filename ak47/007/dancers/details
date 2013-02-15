@@ -1,0 +1,123 @@
+<?php
+setcookie('phpIssue', '007', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - February/March 2005, Seventh Issue - Morten Nilsson : Dancers Details</title>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/007/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/007/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - February/March 2005, Seventh Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/007/" title="Home"><img src="/ak47/007/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - February/March 2005, Seventh Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Dancers (<a class="normal" href="http://brea.kfa.st/ak47/007/dancers" title="View Dancers">View</a>)</h2>
+  <p><a href="/ak47/007/dancers" title="View Dancers"><img src="/ak47/007/graphics/007_mn.jpg" alt="Dancers" title="Dancers" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>Dancers is a series of photographs depicting participants in ballroom dancing competitions in Denmark.<br />
+Danish artist, Morten Nilsson, attended many such events and asked to photograph contestants in costume between dances. Using a ring flash ( commonly used in fashion work), the artist set his subjects in front of whatever backdrops were immediately available. The photographs produced are direct and unadorned with the subjects often situated frontally in the center of the frame looking directly into the camera lens. The blank, vacant stares of the sitters are set in contrast to their elaborate and overwrought appearances. Nilsson`s subjects often appear lifeless, like wax mannequins, no longor human, perhaps an allusion to the artificial, often ridiculous facades constructed and worn by people everyday.</p>
+
+<p><i>Brian Clamp/Clampart NYC</i><br />
+</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/007/dancers" title="View Dancers">View Dancers</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Morten Nilsson</h2>
+ 
+
+  <p>Morten Nilsson (1967)</p>
+
+<p><b>Exhibitions</b><br />
+2005 Musee de la Photographie de Charleroi, Charleroi, Belgium.<br />
+2005 Cokkie Snoei Gallery, Rotterdam, Netherland.<br />
+2005 Ingrid Hansen Gallery, Washington, USA.<br />
+2005 Stalke Galleri, Copenhagen, Denmark.<br />
+2004 Clamp Art Gallery, New York City, USA.<br />
+2004 Turner House Gallery - in association with Ffotogallery, Wales, United Kingdom.<br />
+2004 Tom Blau Gallery, London, United Kingdom.</p>
+
+<p><b>Selected Group Exhibitions</b><br />
+2006 Discoveries of the Meeting Place, Fotofest 2006, Houston, USA.<br />
+2004 Schweppes 2004, National Portrait Gallery, London, United Kingdom.<br />
+2004 Identifying Marks, The Houston Center of Photography, Houston, USA.<br />
+2004 Critical Mass, travelling show, USA.<br />
+2004 Global Warming, PDNB Gallery, Dallas, USA.<br />
+2004 Gallery Ujazdowskie Street, Warzaw, Poland.</p>
+
+<p><b>Selected Publications/Reviews</b><br />
+2004 Katalog, # 16.3, Dancers, 4 pages inside, Denmark.<br />
+2004 Contemporary Magazine, # 66, Review, Dancers. United Kingdom.<br />
+2004 Photoworks Magazine, # 2, Dancers, cover, 6 pages inside, United Kingdom.<br />
+2004 Pozytyw Magazine, # 12, Dancers, 9 pages inside, Poland.<br />
+2004 Blue Eyes Magazine, # 5, Dancers, USA.<br />
+2004 Head Magazine, # 6, Dancers, United Kingdom.<br />
+2004 British Journal of Photography, 14.07.04, Dancers, Cover, 5 pages inside, United Kingdom.</p>
+
+<p><b>Education</b><br />
+1991-94 The Danish School of Journalism, photographer.<br />
+1989-90 Fatamorgana, The Danish School of Art Photography</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="http://www.mortennilsson.com/" title="Visit website">Website</a><br/>
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/007/" title="AK47.tv - February/March 2005, Seventh Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

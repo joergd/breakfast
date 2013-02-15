@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>Movable Type 3.2</engineName> 
+    <engineLink>http://www.movabletype.org/</engineLink>
+    <homePageLink>http://brea.kfa.st/ak47/</homePageLink>
+    <apis>
+      <api name="MetaWeblog" preferred="true" apiLink="http://brea.kfa.st/ak47/mt/mt-xmlrpc.cgi" blogID="1" />
+      <api name="Blogger" preferred="false" apiLink="http://brea.kfa.st/ak47/mt/mt-xmlrpc.cgi" blogID="1" />
+    </apis>
+  </service>
+</rsd>

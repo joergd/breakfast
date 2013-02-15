@@ -1,0 +1,142 @@
+<?php
+setcookie('phpIssue', '007', 0, '/');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - February/March 2005, Seventh Issue</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/007/main.css" /> 
+<style type="text/css" media="screen">@import "/ak47/007/main.css"</style>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - February/March 2005, Seventh Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="top">
+
+<div id="banner">
+  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="430" height="325" id="imgFadeIn" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="/ak47/flash/imgFadeIn.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#949768" />
+<param name="FlashVars" value="imgUrl=http://brea.kfa.st/ak47/007/graphics/007.jpg" />
+<embed src="/ak47/flash/imgFadeIn.swf" quality="high" bgcolor="#949768" width="430" height="325" FlashVars="imgUrl=http://brea.kfa.st/ak47/007/graphics/007.jpg" name="imgFadeIn" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</div>
+
+<img src="/ak47/007/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - February/March 2005, Seventh Issue" />
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+  <p><b>An online art photography magazine.</b> AK47 is published bimonthly. We showcase images from both fine arts and documentary photographers. </p>
+<p>AK47.tv is <b>free</b> and online. Saving paper.</p>
+
+ <div id="subscribe"><form method="post" action="">
+<h2>Get notified free!<br/>Don't miss out on new issues</h2>
+<p>Email:<br/>
+<input type="text" name="email" /></p>
+<input type="Submit" name="email-button" value="Subscribe" /><span style="color:red;">Out of order.</span-->
+<br/><a href="/ak47/subscriptions" title="Subscriptions">Tell me more</a>&#160;|&#160;<a href="/ak47/privacy_policy" title="Privacy Policy">Privacy Policy</a><br/><span style="font-size:xx-small;">Privacy Policy: Your email will be safe. We loathe spam too.</span>
+</form>
+</div>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+<p><b>In this issue:</b></p>
+<ul id="toc">
+      <li>
+      <a href="./black_holes_and_other_inconsistencies" title="Black Holes and Other Inconsistencies">Black Holes and Other Inconsistencies</a>&#160;...&#160;<b>Edgar Martins</b><br/>
+
+      
+        In �Black Holes & Other Inconsistencies�, urbanism is portrayed as a movement of isolation. A... (<a href="http://brea.kfa.st/ak47/007/black_holes_and_other_inconsistencies/details" title="Read more">more</a>)
+      
+    </li>
+      <li>
+      <a href="./dancers" title="Dancers">Dancers</a>&#160;...&#160;<b>Morten Nilsson</b><br/>
+
+      
+        Dancers is a series of photographs depicting participants in ballroom dancing competitions in Denmark. Danish... (<a href="http://brea.kfa.st/ak47/007/dancers/details" title="Read more">more</a>)
+      
+    </li>
+      <li>
+      <a href="./one_mans_waste_is_another_mans_want" title="One Man`s Waste is Another Man`s Want">One Man`s Waste is Another Man`s Want</a>&#160;...&#160;<b>Sean Wilson</b><br/>
+
+      
+        Ever since I was young I have had a fascination for flea markets and the... (<a href="http://brea.kfa.st/ak47/007/one_mans_waste_is_another_mans_want/details" title="Read more">more</a>)
+      
+    </li>
+      <li>
+      <a href="./snapshots" title="Snapshots">Snapshots</a>&#160;...&#160;<b>William Greiner</b><br/>
+
+      
+         Garry Winogrand once said he had a burning desire to see what things looked... (<a href="http://brea.kfa.st/ak47/007/snapshots/details" title="Read more">more</a>)
+      
+    </li>
+      <li>
+      <a href="./the_adventures_of_guille_and_beli" title="The Adventures of Guille and Beli">The Adventures of Guille and Beli</a>&#160;...&#160;<b>Alessandra Sanguinetti</b><br/>
+
+      
+        Like a chapter of a novel, the series of photographs are part of an ongoing... (<a href="http://brea.kfa.st/ak47/007/the_adventures_of_guille_and_beli/details" title="Read more">more</a>)
+      
+    </li>
+  
+
+</ul>
+
+</div> <!-- rightcontent -->
+
+<div id="freewallpaper"></div>
+
+
+<div id="coverPhotoCredit">
+  Cover photo: <a href="/ak47/007/snapshots" title="William Greiner">William Greiner</a>
+
+</div>
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/007/" title="AK47.tv - February/March 2005, Seventh Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

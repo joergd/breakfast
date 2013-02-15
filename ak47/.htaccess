@@ -1,0 +1,31 @@
+Options +FollowSymLinks
+RewriteEngine On 
+DirectoryIndex index index.php index.xml
+DefaultType application/x-httpd-php 
+AddType application/x-httpd-php .html .htm .php
+
+<Files index>
+ForceType application/x-httpd-php
+</Files>
+
+<Files about>
+ForceType application/x-httpd-php
+</Files>
+
+<Files backissues>
+ForceType application/x-httpd-php
+</Files>
+
+<Files privacy_policy>
+ForceType application/x-httpd-php
+</Files>
+
+<Files subscriptions>
+ForceType application/x-httpd-php
+</Files>
+
+<Files dot_tv>
+ForceType application/x-httpd-php
+</Files>
+
+ErrorDocument 404 http://brea.kfa.st/ak47

@@ -1,0 +1,101 @@
+<script type="text/javascript">
+<!--
+myCookie.setSubValue("issue", getIssue());
+-->
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - April 2004, First Issue - Peter Ainsworth : Seaside Details</title>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ak47/001/details.css" /> 
+<style type="text/css" media="screen">@import "/ak47/001/details.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/ak47/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/ak47/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/ak47/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://brea.kfa.st/ak47/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv - April 2004, First Issue" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://brea.kfa.st/ak47/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<a href="http://brea.kfa.st/ak47/001/" title="Home"><img src="/ak47/001/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - April 2004, First Issue" /></a>
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+   <h2>Seaside (<a class="normal" href="http://brea.kfa.st/ak47/001/seaside" title="View Seaside">View</a>)</h2>
+  <p><a href="/ak47/001/seaside" title="View Seaside"><img src="/ak47/001/graphics/001_pa.jpg" alt="Seaside" title="Seaside" width="80" height="80" style="float:left; margin-right:5px; margin-bottom:5px;" /></a>The British coast out-of-season is a surreal place. Where the colourful theme parks and arcades are in stark contrast to the tea coloured sea and bleak deserted streets. </p>
+
+<p>Its distinctive architecture, from carefully planned precincts, with squares, crescents and promenades, to gaudy amusement arcades, beach huts and piers are left in stasis. The sea front waits for the return of summer and with it the holidaymakers.</p>
+
+<p>Within the photographs I have isolated features that are synonymous with the beach as the seaside often inspires nostalgia, for a time when life�s pleasures were, �simpler�. </p>
+
+<p>Few people are present in this series of photographs in an attempt to make the compositions appear like backdrops or stage sets. It is this quality of artifice that often pervades our experience of the seaside.</p>
+
+  <p>
+       <h2>Showcase</h2>
+       <a href="http://brea.kfa.st/ak47/001/seaside" title="View Seaside">View Seaside</a>
+  </p>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+
+    <h2>About Peter Ainsworth</h2>
+ 
+
+  <p>Peter Ainsworth is a freelance photographer working and living in East London. Ainsworth�s work is an exploration of the modern landscape, photographing spaces on the periphery, the banal margins of everyday life; along bleak suburban streets, busy ring roads, down city canals, into retail parks and along wind swept coastal paths. Spaces that take up an expanse of the landscape that are glimpsed by the pedestrian or framed through the car�s windscreen, yet which slip into the wallpaper of the everyday.<br />
+Having graduated Nottingham Trent University in 2001, Ainsworth has participated in numerous group and solo exhibitions, as well as undertaking commercial commissions. In September 2003 he was the only photographer to be included in the artist�s section of the Evening Standard�s feature, �London�s Top 100 Rising Star�s�.</p>
+
+  <p>
+     <h2>Contact</h2>
+     <a href="mailto:ainsworthpeter at hotmail dot com" title="Send email">Email</a>
+<br/><a href="http://www.peterainsworth.co.uk/" title="Visit website">Website</a>
+
+  </p>
+
+</div> <!-- rightcontent -->
+
+<div id="menu">
+  <a href="http://brea.kfa.st/ak47/001/" title="AK47.tv - April 2004, First Issue">AK47.tv</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://brea.kfa.st/ak47/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004-2006 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>

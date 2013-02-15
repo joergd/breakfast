@@ -1,0 +1,164 @@
+<?php
+if (isset($_COOKIE["phpIssue"]))
+   $issue = $_COOKIE["phpIssue"];
+else
+   $issue = "";
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>AK47.tv - An online art photography magazine: Privacy Policy</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>/main.css" /> 
+<style type="text/css" media="screen">@import "/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>/main.css"</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/rsd.xml" />
+<link rel="start" href="/" title="Home" />
+<link rel="copyright" title="AK47.tv and contributors" href="http://www.ak47.tv/about" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml" />
+<link rel="author" title="Joerg Diekmann" href="http://www.fugacious.net" />
+<link rel="Bookmark Icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel = "schema.DC" href    = "http://purl.org/DC/elements/1.0/" />
+<meta name = "DC.Title" content = "AK47.tv" />
+<meta name = "DC.Description" content = "AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name = "DC.Source" scheme="URI" content = "urn:issn:1743-6141" />
+<meta name = "DC.Creator" content = "AK47.tv" />
+<meta name = "DC.Type" content = "Photos" />
+<meta name = "DC.Format" content = "text/html" />
+<meta name = "DC.Language" content = "en" />
+<meta name = "DC.Rights" content = "http://www.ak47.tv/about" />
+<meta name="description" content="AK47.tv (ISSN 1743-6141) is an online art photographic magazine. We showcase images from both fine arts and documentary photographers." />
+<meta name="keywords" content="photographer, photography, quality, magazine, online, ak47, showcase, show case, series, fine arts, documentary, art" />
+
+<script language="JavaScript" type="text/javascript" src="/scripts/common.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="/scripts/cookie.js"></script>
+
+<script type="text/javascript">
+<!--
+var myCookie = new CJL_CookieUtil("ak47", null, "/");
+-->
+</script>
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="top">
+
+<div id="banner">
+  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="430" height="325" id="imgFadeIn" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="/flash/imgFadeIn.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#F4FAFF" />
+<param name="FlashVars" value="imgUrl=http://www.ak47.tv/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>/graphics/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>.jpg" />
+<embed src="/flash/imgFadeIn.swf" quality="high" bgcolor="#F4FAFF" width="430" height="325" FlashVars="imgUrl=http://www.ak47.tv/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>/graphics/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>.jpg" name="imgFadeIn" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</div>
+
+<a href="/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>" title="Home"><img src="/<?php
+  if (strlen($issue) != 3)
+     echo "008";
+  else
+     echo $issue;
+?>/graphics/ak47.gif" alt="Ak47 Logo" title="AK47.tv - An online art photography magazine" /></a>
+
+
+</div> <!-- top -->
+
+<div id="leftContent">
+
+  <p><b>An online art photography magazine.</b> AK47 is published bimonthly. We showcase images from both fine arts and documentary photographers. 
+</p>
+
+<p>AK47.tv is <b>free</b> and online. Saving paper.</p>
+
+ <div id="subscribe"><!--form method="post" action="http://www.ak47.tv/email/?p=subscribe&id=1"-->
+<input type="hidden" name="list[2]" value="signup" />
+<input type="hidden" name="p" value="subscribe" />
+<input type="hidden" name="id" value="1" />
+<h2>Get notified free!<br/>Don't miss out on new issues</h2>
+<p>Email:<br/>
+<input type="text" name="email" /></p>
+<!--input type="submit" name="subscribe" value="Subscribe" /--><span style="color:red;">Temporarily out of order.</span>
+<br/><a href="/subscriptions" title="Subscriptions">Tell me more</a>&#160;|&#160;<a href="/privacy_policy" title="Privacy Policy">Privacy Policy</a><br/><span style="font-size:xx-small;">Privacy Policy: Your email will be safe. We loathe spam too.</span>
+<!--/form-->
+</div>
+
+</div> <!-- leftcontent -->
+
+<div id="rightContent">
+  <p><b>Email addresses</b></p>
+
+<p>We're not in the business of selling email addresses. The email address that you provide is NOT sold, or otherwise used for any type of email solicitation. It is ONLY used to let you know when a new AK47.tv issue is out. </p>
+
+<p><b>Cookies</b></p>
+
+<p>A cookie is a piece of information that is stored on your computer's hard drive by your web browser. We use cookies to identify which issue you are currently browsing, so that the masthead displayed is the correct one.</p>
+
+<p>Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use all of the features of AK47.tv.</p> 
+  <p><a href="JavaScript:history.go(-1)" title="Back">Back</a></p>
+
+</div> <!-- rightcontent -->
+
+<div id="freewallpaper"></div>
+
+<div id="menu">
+  <a href="http://www.ak47.tv/" title="AK47.tv - May/June 2005, Eighth Issue">AK47.tv</a>&#160;|&#160;<a href="http://www.ak47.tv/about" title="Publisher information">About</a>&#160;|&#160;<a href="http://www.ak47.tv/backissues" title="History">Back Issues</a>
+</div>
+
+<div id="copyright">
+  Copyright &copy; 2004 AK47.tv and its contributors. ISSN 1743-6141
+</div>
+
+
+</div> <!-- container -->
+
+</body>
+</html>
