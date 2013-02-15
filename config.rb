@@ -55,6 +55,13 @@ set :images_dir, 'img'
 
 activate :directory_indexes
 
+activate :deploy do |deploy|
+  deploy.method = :rsync
+  deploy.user = "joergd"
+  deploy.host = "chilco.textdrive.com"
+  deploy.path = "/users/home/joergd/domains/brea.kfa.st/web/public"
+end
+
 # Build-specific configuration
 configure :build do
 
