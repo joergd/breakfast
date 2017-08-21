@@ -56,10 +56,7 @@ set :images_dir, 'img'
 activate :directory_indexes
 
 activate :deploy do |deploy|
-  deploy.method = :rsync
-  deploy.user = "joergd"
-  deploy.host = "chilco.textdrive.com"
-  deploy.path = "/users/home/joergd/domains/brea.kfa.st/web/public"
+  deploy.deploy_method = :git
 end
 
 # Build-specific configuration
@@ -67,7 +64,7 @@ configure :build do
 
   activate :asset_hash
   activate :favicon_maker
-    
+
   # For example, change the Compass output style for deployment
   activate :minify_css
 

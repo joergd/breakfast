@@ -1,5 +1,5 @@
 source :rubygems
 
-gem "middleman", "~>3.0.11"
+gem "middleman"
 gem "middleman-favicon-maker"
-gem "middleman-deploy"
+gem "middleman-deploy", '~> 2.0.0.pre.alpha'
