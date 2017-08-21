@@ -12,4 +12,3 @@ if (!(window.console && console.log)) {
 }
 
 // Place any jQuery/helper plugins in here.
-;
