@@ -26,4 +26,4 @@ logs
 # Ignore wget script and docker-compose for Netlify
 wget-site.sh
 docker-compose.yml
-site/
+# site/
